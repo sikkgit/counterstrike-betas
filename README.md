@@ -44,6 +44,7 @@ Depending on the beta, it is recommended to use Half-Life 1.1.1.0 (or Steam, wit
 | Beta 6.0 | `March 10, 2000` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta60) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta60.zip) |
 | Beta 5.2 | `January 10, 2000` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta52) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta52.zip) |
 | Beta 5.0 | `December 23, 1999` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta50) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta50.zip) |
+| Beta 5.0 (LEAK) | `December 20, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta50_leak_20DEC99) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta50_leak_20DEC99.zip) |
 | Beta 4.1 | `December 1, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta41) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta41.zip) |
 | Beta 4.0 | `November 5, 1999` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta40) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta40.zip) |
 | Beta 3.1 | `September 16, 1999` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta31) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta31.zip) |
@@ -57,10 +58,10 @@ Depending on the beta, it is recommended to use Half-Life 1.1.1.0 (or Steam, wit
 # Additional informations
 
 ### Missing CS versions
-The following versions of Counter-Strike are missing from this repository. Maybe they are missing, or are no longer available. If you do have them, please let me know through an issue file.
-- [ ] Counter-Strike Beta 1.0 (Linux - `ln_csbeta10.tar.gz`)
+The following versions of Counter-Strike are missing from this repository. We do not know if they had a Linux release at one point, if they are missing, or if they are no longer available. If you happen to have any of them, please let me know through an issue file.
+- [ ] Counter-Strike Beta 1.0 (Linux)
 - [ ] Counter-Strike Beta 1.1 (Linux)
-- [ ] Counter-Strike Beta 1.2 (Windows, Linux)
+- [ ] Counter-Strike Beta 1.2/1.9 (Windows, Linux)
 - [ ] Counter-Strike Beta 2.0 (Linux)
 - [ ] Counter-Strike Beta 2.1 (Linux)
 - [ ] Counter-Strike Beta 3.0 (Linux)
@@ -73,6 +74,9 @@ The following versions of Counter-Strike are missing from this repository. Maybe
 The installer files that were used for Counter-Strike are NOT included in this repository. Only the files that were extracted from said installers.
 
 However, an archive project including them will be provided soon on archive.org.
+
+### Special Thanks
+- **nirv** for providing the leaked build of CS Beta 5.0 !
 
 # Related projects:
 - [Docker image for HLDS 1.1.1.0](https://github.com/Ch0wW/docker-hlds-won2)
